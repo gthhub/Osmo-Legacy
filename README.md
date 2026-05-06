@@ -13,7 +13,7 @@ A natural, passive filter
 
 ---
 
-****NOTE: This firmware is the inital firmware release for iPhone use. Not compatible with further updates and companion apps.
+****NOTE: This firmware is the ORIGINAL firmware release for iPhone use. Not compatible with Android, further updates, nor iOS companion app.
 
 ---
 
@@ -26,13 +26,16 @@ A pocket-size e-ink notification pager. Shows filtered iPhone notifications on a
 
 I built this because I wanted a way to stop checking my phone without feeling completely disconnected. To functionally disconnect without fully *being* disconnected. 
 ~
-This is the freedom of what is effectively a ~modern day pager~. It lets me drop my phone in a drawer / bag out of reach to make a true physical barrier, while not feeling like I'm completely disconnected from important stuff I may be needed for (like still getting notifications from my family or urgent work pings and such). Now, I only go grab my phone IF something truly needs action.
+This is the freedom of what is effectively a **modern day pager**. It lets me drop my phone in a drawer / bag out of reach to make a true physical barrier, while not feeling like I'm completely disconnected from important stuff I may be needed for (like still getting notifications from my family or urgent work pings and such). Now, I only go grab my phone IF something truly needs action.
 
 I've been using it as an (intentionally and literally) tiny window into my digital life. My phone is out of reach 95% of the day. 
 
-Hope you can enjoy it too.
+Hope you can enjoy this freedom too.
 
-Please star this on Github to receive updates for this project!
+
+Visit osmopager.com to see the up-to-date upgraded version of Osmo, and use the free flash tool directly (no need to mess with code)
+
+Hop on the mailing list at osmopager.com/signup for project updates!
 
 ---
 
@@ -63,9 +66,9 @@ If something needs action, you reach for your phone intentionally. If not, dismi
 
 Direct: https://www.waveshare.com/esp32-s3-epaper-1.54.htm?srsltid=AfmBOoqwqe976edHKiOOEdibZsqfdZR157A26Mu9u9ND_rKFB2AjP8JO
 
-Amazon (need to buy a 1.25jst battery though too in this case): https://a.co/d/0fAMwlll
+Amazon (need to buy a 1.25jst battery though too in this case): https://amzn.to/4si2FW9?tag=tybuilds1-20
 
-Battery I used that fits in case: https://www.amazon.com/dp/B0FRFY1F76?ref=ppx_pop_mob_ap_share
+Battery I used that fits in case: https://amzn.to/4s1PgBa?tag=tybuilds1-20
 
 That's it. No custom PCB, no special parts. This is the exact board I'm using.
 
@@ -90,7 +93,7 @@ That's it. No custom PCB, no special parts. This is the exact board I'm using.
 1. Power on Osmo — it will show "Waiting for iPhone..."
 2. Go to iPhone **Settings → Bluetooth**
 3. Pair with **"Osmo"**
-4. Accept the pairing request
+4. Accept the pairing request and Allow Notification Sharing popup
 5. Done — notifications will start flowing
 
 > First pairing takes ~10 seconds. It bonds, so reconnection should be mostly automatic after that.
@@ -100,7 +103,7 @@ That's it. No custom PCB, no special parts. This is the exact board I'm using.
 ## Limitations
 
 - iPhone only (ANCS is Apple's protocol)
-- Code is fully functional but not polished. Use at your own risk.
+- Code is fully functional but not polished. Fully up-to-date version is available via flash tool on osmopager.com. Use this base code at your own risk.
 
 ---
 
