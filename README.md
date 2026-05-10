@@ -33,9 +33,9 @@ I've been using it as an (intentionally and literally) tiny window into my digit
 Hope you can enjoy this freedom too.
 
 
-Visit osmopager.com to see the up-to-date upgraded version of Osmo, and use the free flash tool directly (no need to mess with code)
+Visit https://osmopager.com to see the up-to-date upgraded version of Osmo, and use the free flash tool directly (no need to mess with code)
 
-Hop on the mailing list at osmopager.com/signup for project updates!
+Hop on the mailing list at https://osmopager.com/signup for project updates!
 
 ---
 
